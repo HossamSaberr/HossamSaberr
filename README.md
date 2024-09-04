@@ -34,7 +34,6 @@
 <h3 align='center'> 🌱  I'm currently learning...</h4>
 <br>
 <p align='center'>
-  <img src="https://img.shields.io/badge/java%20-purple.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
