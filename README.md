@@ -1,4 +1,5 @@
 <h2 align='center'>  Hi Over There, I'm <a href="#">Hossam Saber </a>🧑🏻‍💻</h2>
+<br>
 
 
 ### Languages and Tools 🛠: ###
@@ -12,10 +13,10 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<br>
+<hr>
 
 ### Reach me at 📫: ###
-<hr>
+<br>
 <a href="https://www.linkedin.com/in/hossam-saberr/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
