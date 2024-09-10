@@ -6,11 +6,13 @@
   
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">  <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 <br>
+<hr>
 
 ### I'm currently learning 🌱: ###
 <p>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+<hr>
 
 ### Reach me at 📫: ###
 <a href="https://www.linkedin.com/in/hossam-saberr/">
@@ -26,10 +28,10 @@
 </a>       
 <br>
 <br>
+<hr>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=HossamSaberr&show_icons=true" alt="HossamSaberr" /> </p>
 
 <br>
 <br>
 
 <h3 align="center">الْحَمْدُ لِلّهِ الَّذِي هَدَانَا لِهَـذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلا أَنْ هَدَانَا اللّهُ </h3>
-
