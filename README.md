@@ -8,11 +8,11 @@
 <br>
 <hr>
 
-<h3> 🌱  I'm currently learning...</h4>
-<br>
+### I'm currently learning 🌱: ###
 <p>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+<br>
 <hr>
 
 ### Reach me at 📫: ###
@@ -34,5 +34,3 @@
 
 <br>
 <br>
-<div align="center">
-<h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring Some Of The Repositories!</h3>
