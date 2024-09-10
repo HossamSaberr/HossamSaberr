@@ -8,9 +8,9 @@
 <br>
 <hr>
 
-<h3 align='center'> 🌱  I'm currently learning...</h4>
+<h3> 🌱  I'm currently learning...</h4>
 <br>
-<p align='center'>
+<p>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
