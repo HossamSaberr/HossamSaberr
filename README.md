@@ -16,7 +16,6 @@
 <hr>
 
 ### Reach me at 📫: ###
-<br>
 <a href="https://www.linkedin.com/in/hossam-saberr/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
@@ -30,6 +29,7 @@
 </a>       
 <br>
 <br>
+<hr>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=HossamSaberr&show_icons=true" alt="HossamSaberr" /> </p>
 
 <br>
