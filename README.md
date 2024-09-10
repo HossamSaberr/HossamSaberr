@@ -19,16 +19,10 @@
 <br>
 
 <hr>
-<h3 align='center'> 🔭  I’m Currently Work With...</h4>
+### Languages and Tools 🛠: ###
+  
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://javapro.io/wp-content/uploads/2022/04/SpringBoot-Logo-qu.png"> <img height="50" src="https://lh3.googleusercontent.com/proxy/LmPAhaY_NbClvVRaIvKQKaZUDcVBFhu87vEVHoCJfyjapMSYEosWKpuVLEadcBVgDb--nNZ-8F6LacZwbD6xoWt1lP3dU-5N5lDR4LTNjQEX04aefg">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">  <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 <br>
-<p align='center'>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> &nbsp;&nbsp;
-</p>
 <hr>
 
 <h3 align='center'> 🌱  I'm currently learning...</h4>
@@ -36,8 +30,23 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
 <br>
+### Reach me at 📫: ###
+<a href="https://www.linkedin.com/in/hossam-saberr/">
+  <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>   
+  <a href="mailto:hosssam.saberr@gmail.com">
+  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>   
+<a href="https://twitter.com/Hossamsaberr">
+  <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
+</a>   <a href="https://codeforces.com/profile/Hossam.Saber">
+  <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
+</a>       
+<br>
+<br>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=hazemadelkhalel&show_icons=true" alt="HossamSaberr" /> </p>
+
 <br>
 <br>
 
