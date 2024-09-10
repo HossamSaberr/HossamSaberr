@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
 ### Reach me at 📫: ###
+<hr>
 <a href="https://www.linkedin.com/in/hossam-saberr/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
@@ -27,7 +29,7 @@
 </a>       
 <br>
 <br>
-<p > <img src="https://github-readme-stats.vercel.app/api?username=hazemadelkhalel&show_icons=true" alt="HossamSaberr" /> </p>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=HossamSaberr&show_icons=true" alt="HossamSaberr" /> </p>
 
 <br>
 <br>
