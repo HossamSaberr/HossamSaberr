@@ -27,7 +27,7 @@
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>      
 <a href="https://leetcode.com/u/hossam_saber/">
-  <img align="center" alt="Falguni @LeetCode" height="40" src="https://images.app.goo.gl/ZDsfuCR3k3jCErda8" />
+  <img align="center" alt="Falguni @LeetCode" height="40" src="https://leetcode.com/static/images/LeetCode_logo.png" />
 </a>    
 <br>
 <br>
