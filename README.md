@@ -27,7 +27,7 @@
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>      
 <a href="https://leetcode.com/u/hossam_saber/">
-  <img align="center" alt="Falguni @LeetCode" height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fleetcode-guide-students-junaid-khan&psig=AOvVaw1hod03AQueswbV9Yli7CKM&ust=1734455574573000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD8v9bkrIoDFQAAAAAdAAAAABAJ" />
+  <img align="center" alt="Falguni @LeetCode" height="40" src="https://images.app.goo.gl/ZDsfuCR3k3jCErda8" />
 </a>    
 <br>
 <br>
