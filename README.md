@@ -8,12 +8,6 @@
 <br>
 <hr>
 
-### I'm currently learning 🌱: ###
-<p>
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
-
 ### Reach me at 📫: ###
 <a href="https://www.linkedin.com/in/hossam-saberr/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
