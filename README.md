@@ -8,7 +8,7 @@
 - :school: I am a `Student` at the Faculty of Computers & Informatics at Menofia University.
 - 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - 🤓 Always learning new things.
-- 📫 How to reach me **hosssam.saberr@gmail.com**.
+- 📫 How to reach [me](hosssam.saberr@gmail.com).
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1YW9jdzg2YjBwNHA4emU4dm01OG5zY3RwZm1kZ3htdndydWtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9go7FYScTRhLJy7ZfI/giphy.gif" width="5%" > Connect with me
 <p align="center">
