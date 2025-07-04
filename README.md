@@ -1,4 +1,9 @@
-<h1 align="center">Hi , I'm Hossam Saber.</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Hossam+Saber;&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">A Competitive Programmer.</h3>
 
 - 🌱 I’m currently learning **Computer Science**
