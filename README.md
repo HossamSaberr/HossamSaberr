@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hossam Saber.</h1>
+<h1 align="center">Hi , I'm Hossam Saber.</h1>
 <h3 align="center">A Competitive Programmer.</h3>
 
 - 🌱 I’m currently learning **Computer Science**
