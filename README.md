@@ -1,13 +1,6 @@
 <h1 align='center'>  Hi Over There, I'm Hossam Saber</h1>
 <h4 align='center'>  A Competitive Programmer From Egypt</h4>
 
-
-### Languages and Tools 🛠: ###
-  
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP"> <a/>  <a href="https://www.java.com/en/" target="_blank"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"><a/>   <a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML"><a/>  <a href="https://www.w3schools.com/Css/" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS"><a/>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS"><a/>  <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"><a/>
-<br>
-<hr>
-
 ### Reach me at 📫: ###
 <a href="https://www.linkedin.com/in/hossam-saberr/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
