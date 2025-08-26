@@ -8,7 +8,7 @@
 - :school: I am a `Student` at the Faculty of Computers & Informatics at Menofia University.
 - 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - 🤓 Always learning new things.
-- 📫 How to reach [me](hosssam.saberr@gmail.com).
+- 📫 How to reach [me](https://www.linkedin.com/in/hossam-saberr/).
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1YW9jdzg2YjBwNHA4emU4dm01OG5zY3RwZm1kZ3htdndydWtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9go7FYScTRhLJy7ZfI/giphy.gif" width="5%" > Connect with me
 <p align="center">
@@ -25,7 +25,7 @@
 	  &emsp; 
 	<a href="https://leetcode.com/u/hossam_saber/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/Homz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	<a href="https://atcoder.jp/users/Homzz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
 	<a href="https://www.codechef.com/users/homz"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
